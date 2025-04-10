@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Testing first checkout and check in",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-04-10T12:40:39.314Z",
+  "updateTime" : "2025-04-10T12:44:06.950Z",
   "objectRefs" : [ {
     "id" : "9YJHsw3E9L5gMsg8huPXqP",
     "name" : "OpenWeather_RESTv2_Connection",

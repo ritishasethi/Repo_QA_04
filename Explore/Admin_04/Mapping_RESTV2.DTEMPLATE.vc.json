@@ -1,5 +1,6 @@
 {
   "content" : {
+    "description" : "Testing first checkout and check in",
     "allowMaxFieldLength" : "false",
     "bigIntConvertType" : "ONLY_BIGINT",
     "documentType" : "MAPPING",
@@ -509,5 +510,5 @@
       }
     ]
   },
-  "vcsExportTime" : "2025-04-10 05:40:39 PDT"
+  "vcsExportTime" : "2025-04-10 05:44:06 PDT"
 }
